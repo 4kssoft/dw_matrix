@@ -1,5 +1,3 @@
 # Projekt transformacja, czyli Matrix - poznaj reguły gry
 
-Materiały wykonywane podczas projektu transformacji
-
-- Dzień 1
+- Dzień 1 - Tworzenie nowego repozytorium na github
